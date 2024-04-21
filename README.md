@@ -11,7 +11,7 @@ winsound library
 
 ### Usage:
 
-Either run the script using python main.py
+Either run the script using python main.py.
 
 Or add as a startup service (Task Scheduler in Windows as an example).
 
